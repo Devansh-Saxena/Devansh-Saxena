@@ -11,7 +11,7 @@
                      [Medium](https://medium.com/@devanshsaxena)
   
 - ⚡ Musings:
-   JARVIS to Iron Man, or Jeeves to Bertie Wooster?
+   JARVIS to Tony Stark, or Jeeves to Bertie Wooster?
 
 <pre><code>                             ##*****###  #%%                                
                          %%#####%%###%###%%##%                              
