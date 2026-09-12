@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="62%" valign="middle"><pre>
+<td width="60%" valign="middle"><pre><small>
                              ##*****###  #%%                                
                          %%#####%%###%###%%##%                              
                        %%%%%%%%%%%%%%%%%%%%######                           
@@ -36,7 +36,7 @@
    %%####%%%%%%%%%%%%%%%%#*+++=====================+*##%%%%%%%%%%#####%%%%%%
   %%%###%%%%%%%%%%%%%%%%%#+======================+*#%%%%%%%%%%%%%%%%%%%%%%%#
  #%####%%%%%%%%%%%%%%%%%%#+====================+*#%%%%%%%%%%%%%%%%%%%%%%%%%%
-</pre></td><td width="38%" valign="middle"><h3>Hi 👋 I'm a Senior Software Engineer 👨🏻‍💻</h3><sub>🔭 I primarily work with modern <b>Java paradigms</b> and the
+</small></pre></td><td width="40%" valign="middle"><h3>Hi 👋 I'm a Senior Software Engineer 👨🏻‍💻</h3><small>🔭 I primarily work with modern <b>Java paradigms</b> and the
 <b>Spring ecosystem</b>, and occasionally dabble in <b>Go</b>.
 
 <br><br>
@@ -73,6 +73,6 @@ for the cloud landscape (pun intended).
 <i>JARVIS to Tony Stark,<br>
 or Jeeves to Bertie Wooster?</i>
 
-</sub></td>
+</small></td>
 </tr>
 </table>
