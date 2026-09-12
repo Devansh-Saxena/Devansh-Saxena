@@ -41,7 +41,7 @@
 🌱 Currently exploring <b>Helidon</b> for building from the ground up for the cloud landscape (pun intended).<br>
 🤼 Looking to collaborate on technical product ideas in <b>fintech</b> and <b>network technologies</b>.<br>
 🤔 Keen to hear production insights on <b>Golang back-end development</b>.<br>
-💬 Ask me about <b>Java</b>, <b>performance</b>, and the <b>security</b> horizon.<br>📫 <b>Reach out to me on:</b> <a href="https://in.linkedin.com/in/devansh-saxena-b5655329">LinkedIn</a><br>
+💬 Ask me about <b>Java</b>, <b>performance</b>, and the <b>security</b> horizon.<br>📫 <b>Msg me on:</b> <a href="https://in.linkedin.com/in/devansh-saxena-b5655329">LinkedIn</a><br>
 🪼 <b>Follow me on:</b> <a href="https://medium.com/@devanshsaxena">Medium</a>
 <br>⚡ <b>Musings:</b> <i>JARVIS to Tony Stark, or Jeeves to Bertie Wooster?</i>
 </small>
