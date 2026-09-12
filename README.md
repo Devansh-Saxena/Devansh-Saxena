@@ -1,19 +1,7 @@
-## Hi👋 I'm a Senior Software Engineer 👨🏻‍💻
-
-- 🔭 I primarily work with modern Java paradigms and the Spring ecosystem, and occasionally dabble in Go
-- 🌱 I’m currently learning Helidon to build from the ground up for the cloud landscape (pun intended)
-- 🤼 I’m looking to collaborate on technical product ideas in fintech and network technologies
-- 🤔 Keen to hear perspectives and production insights on Golang back-end development
-- 💬 Ask me about the latest and the greatest in Java, performance and the security horizon
-- 📫 Reach out to me on:
-                     [LinkedIn](https://in.linkedin.com/in/devansh-saxena-b5655329)
-- 🪼 Follow me on:
-                     [Medium](https://medium.com/@devanshsaxena)
-  
-- ⚡ Musings:
-   JARVIS to Tony Stark, or Jeeves to Bertie Wooster?
-
-<pre><code>                             ##*****###  #%%                                
+<table>
+<tr>
+<td width="62%" valign="middle"><pre>
+                             ##*****###  #%%                                
                          %%#####%%###%###%%##%                              
                        %%%%%%%%%%%%%%%%%%%%######                           
                      %%%%%%%%%%%%%%%%%%%%%%%%#%##%%                         
@@ -48,4 +36,43 @@
    %%####%%%%%%%%%%%%%%%%#*+++=====================+*##%%%%%%%%%%#####%%%%%%
   %%%###%%%%%%%%%%%%%%%%%#+======================+*#%%%%%%%%%%%%%%%%%%%%%%%#
  #%####%%%%%%%%%%%%%%%%%%#+====================+*#%%%%%%%%%%%%%%%%%%%%%%%%%%
-</code></pre>
+</pre></td><td width="38%" valign="middle"><h3>Hi 👋 I'm a Senior Software Engineer 👨🏻‍💻</h3><sub>🔭 I primarily work with modern <b>Java paradigms</b> and the
+<b>Spring ecosystem</b>, and occasionally dabble in <b>Go</b>.
+
+<br><br>
+
+🌱 Currently exploring <b>Helidon</b> to build from the ground up
+for the cloud landscape (pun intended).
+
+<br><br>
+
+🤼 Looking to collaborate on technical product ideas in
+<b>fintech</b> and <b>network technologies</b>.
+
+<br><br>
+
+🤔 Keen to hear perspectives and production insights on
+<b>Golang back-end development</b>.
+
+<br><br>
+
+💬 Ask me about <b>Java</b>, <b>performance</b>, and the
+<b>security horizon</b>.
+
+<br><br>
+
+📫 <b>Reach out</b><br>
+<a href="https://in.linkedin.com/in/devansh-saxena-b5655329">LinkedIn</a>
+
+<br>🪼 <b>Follow</b><br>
+<a href="https://medium.com/@devanshsaxena">Medium</a>
+
+<br><br>
+
+⚡ <b>Musings</b><br>
+<i>JARVIS to Tony Stark,<br>
+or Jeeves to Bertie Wooster?</i>
+
+</sub></td>
+</tr>
+</table>
