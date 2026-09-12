@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-<!--
-
-- 🔭 I’m currently working on modern Java paradigms and primarly Spring ecosystem
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on technical project development in fintech
-- 🤔 I’m looking for help with production grade perspectives for Golang
+- 🔭 I’m currently working on modern Java paradigms and primarily Spring ecosystem
+- 🌱 I’m currently learning Helidon
+- 👯 I’m looking to collaborate on technical project development ideas in fintech
+- 🤔 I’m looking for help with production grade perspectives on Golang back-ends
 - 💬 Ask me about the latest and the greatest in Java Spring ecosystem
 - 📫 How to reach me: [](https://linkedin.com/in/devansh-saxena-b5655329)
 - ⚡ Fun fact: AI we wanted: JARVIS to Iron Man. AI we got: Jeeves to Bertie Wooster
@@ -51,6 +49,3 @@
 ####%##%%%%%%%%%%%%%%%%%%%%%%##<em>+========++</em>##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #####%%##%%%%%%%%%%%%%%%%%%%%%%%##</strong>***##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p>
-
-
--->
