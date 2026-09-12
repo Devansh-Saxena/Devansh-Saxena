@@ -1,6 +1,6 @@
 ## Hi👋 I'm a Senior Software Engineer 👨🏻‍💻
 
-- 🔭 I primarily work with modern Java paradigms and the Spring ecosystem
+- 🔭 I primarily work with modern Java paradigms and the Spring ecosystem, and occasionally in Go
 - 🌱 I’m currently learning Helidon to build from the ground up for the cloud landscape (pun intended)
 - 🤼 I’m looking to collaborate on technical product ideas in fintech and network technologies
 - 🤔 Keen to hear perspectives and production insights on Golang back-end development
