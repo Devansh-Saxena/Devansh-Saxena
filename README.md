@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%" valign="middle"><pre><small>
+<td width="60%" valign="top"><pre><small>
                              ##*****###  #%%                                
                          %%#####%%###%###%%##%                              
                        %%%%%%%%%%%%%%%%%%%%######                           
@@ -36,43 +36,16 @@
    %%####%%%%%%%%%%%%%%%%#*+++=====================+*##%%%%%%%%%%#####%%%%%%
   %%%###%%%%%%%%%%%%%%%%%#+======================+*#%%%%%%%%%%%%%%%%%%%%%%%#
  #%####%%%%%%%%%%%%%%%%%%#+====================+*#%%%%%%%%%%%%%%%%%%%%%%%%%%
-</small></pre></td><td width="40%" valign="middle"><h3>Hi 👋 I'm a Senior Software Engineer 👨🏻‍💻</h3><small>🔭 I primarily work with modern <b>Java paradigms</b> and the
-<b>Spring ecosystem</b>, and occasionally dabble in <b>Go</b>.
+</small></pre></td><td width="40%" valign="top"><h3>Hi 👋 I'm a Senior Software Engineer 👨🏻‍💻</h3><small>
+🔭 I work with modern <b>Java paradigms</b> and the <b>Spring ecosystem</b>, and occasionally dabble in <b>Go</b>.<br>
+🌱 Currently exploring <b>Helidon</b> for building from the ground up for the cloud landscape (pun intended).<br>
+🤼 Looking to collaborate on technical product ideas in <b>fintech</b> and <b>network technologies</b>.<br>
+🤔 Keen to hear production insights on <b>Golang back-end development</b>.<br>
+💬 Ask me about <b>Java</b>, <b>performance</b>, and the <b>security horizon</b>.<br><br>📫 <b>Reach out:</b> <a href="https://in.linkedin.com/in/devansh-saxena-b5655329">LinkedIn</a><br>
+🪼 <b>Follow:</b> <a href="https://medium.com/@devanshsaxena">Medium</a><br><br>
+⚡ <b>Musings:</b> <i>JARVIS to Tony Stark, or Jeeves to Bertie Wooster?</i>
+</small>
 
-<br><br>
-
-🌱 Currently exploring <b>Helidon</b> to build from the ground up
-for the cloud landscape (pun intended).
-
-<br><br>
-
-🤼 Looking to collaborate on technical product ideas in
-<b>fintech</b> and <b>network technologies</b>.
-
-<br><br>
-
-🤔 Keen to hear perspectives and production insights on
-<b>Golang back-end development</b>.
-
-<br><br>
-
-💬 Ask me about <b>Java</b>, <b>performance</b>, and the
-<b>security horizon</b>.
-
-<br><br>
-
-📫 <b>Reach out</b><br>
-<a href="https://in.linkedin.com/in/devansh-saxena-b5655329">LinkedIn</a>
-
-<br>🪼 <b>Follow</b><br>
-<a href="https://medium.com/@devanshsaxena">Medium</a>
-
-<br><br>
-
-⚡ <b>Musings</b><br>
-<i>JARVIS to Tony Stark,<br>
-or Jeeves to Bertie Wooster?</i>
-
-</small></td>
+</td>
 </tr>
 </table>
