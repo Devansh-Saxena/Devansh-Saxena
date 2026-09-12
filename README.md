@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm a Senior Software Engineer
 
 - 🔭 I’m currently working on modern Java paradigms and primarily Spring ecosystem
 - 🌱 I’m currently learning Helidon
@@ -7,7 +7,7 @@
 - 💬 Ask me about the latest and the greatest in Java Spring ecosystem
 - 📫 How to reach me:
                      [LinkedIn](https://in.linkedin.com/in/devansh-saxena-b5655329)
-- 📫 Follow me on:
+- 🪼 Follow me on:
                      [Medium](https://medium.com/@devanshsaxena)
   
 - ⚡ Fun fact: AI we wanted: JARVIS to Iron Man. AI we got: Jeeves to Bertie Wooster
