@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm a Senior Software Engineer
 
-- 🔭 I’m currently working on modern Java paradigms and primarily Spring ecosystem
+- 🔭 I’m currently working on modern primarily Java paradigms and Spring ecosystem
 - 🌱 I’m currently learning Helidon
-- 🤼 I’m looking to collaborate on technical project development ideas in fintech
+- 🤼 I’m looking to collaborate on technical project development ideas in fintech and networks
 - 🤔 I’m looking for help with production perspectives on Golang back-ends
 - 💬 Ask me about the latest and the greatest in Java Spring ecosystem
 - 📫 How to reach me:
