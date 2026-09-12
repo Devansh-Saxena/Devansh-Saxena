@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Senior Software Engineer
+## Hi👋 I'm a Senior Software Engineer 👨🏻‍💻
 
 - 🔭 I’m currently working on modern primarily Java paradigms and Spring ecosystem
 - 🌱 I’m currently learning Helidon
