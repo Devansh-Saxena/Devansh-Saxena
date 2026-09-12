@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on technical project development ideas in fintech
 - 🤔 I’m looking for help with production grade perspectives on Golang back-ends
 - 💬 Ask me about the latest and the greatest in Java Spring ecosystem
-- 📫 How to reach me: [linkedin](https://in.linkedin.com/in/devansh-saxena-b5655329)
+- 📫 How to reach me:
+                     [LinkedIn](https://in.linkedin.com/in/devansh-saxena-b5655329)
+                     [Medium](https://medium.com/@devanshsaxena)
 - ⚡ Fun fact: AI we wanted: JARVIS to Iron Man. AI we got: Jeeves to Bertie Wooster
 
 <pre><code>                             ##*****###  #%%                                
