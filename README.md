@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Helidon
 - 🤼 I’m looking to collaborate on technical project development ideas in fintech and networks
 - 🤔 I’m looking for help with production perspectives on Golang back-ends
-- 💬 Ask me about the latest and the greatest in Java Spring ecosystem
+- 💬 Ask me about the latest and the greatest in Java, Spring and cloud landscape (pun intended)
 - 📫 How to reach me:
                      [LinkedIn](https://in.linkedin.com/in/devansh-saxena-b5655329)
 - 🪼 Follow me on:
