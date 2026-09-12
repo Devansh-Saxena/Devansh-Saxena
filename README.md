@@ -5,7 +5,7 @@
 - 🤼 I’m looking to collaborate on technical product ideas in fintech and network technologies
 - 🤔 Keen to hear perspectives and production insights on Golang back-end development
 - 💬 Ask me about the latest and the greatest in Java, performance and the security horizon
-- 📫 How to reach me:
+- 📫 Reach out to me on:
                      [LinkedIn](https://in.linkedin.com/in/devansh-saxena-b5655329)
 - 🪼 Follow me on:
                      [Medium](https://medium.com/@devanshsaxena)
