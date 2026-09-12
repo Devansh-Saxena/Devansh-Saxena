@@ -10,7 +10,7 @@
 - 🪼 Follow me on:
                      [Medium](https://medium.com/@devanshsaxena)
   
-- ⚡ Fun fact: AI we wanted: JARVIS to Iron Man. AI we got: Jeeves to Bertie Wooster
+- ⚡ AI we wanted: JARVIS to Iron Man. AI we got: Jeeves to Bertie Wooster
 
 <pre><code>                             ##*****###  #%%                                
                          %%#####%%###%###%%##%                              
