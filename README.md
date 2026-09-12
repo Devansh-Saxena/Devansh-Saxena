@@ -1,9 +1,9 @@
 ## Hi👋 I'm a Senior Software Engineer 👨🏻‍💻
 
-- 🔭 I’m currently working on modern primarily Java paradigms and Spring ecosystem
+- 🔭 I’m currently working on primarily modern Java paradigms and Spring ecosystem
 - 🌱 I’m currently learning Helidon
 - 🤼 I’m looking to collaborate on technical product ideas in fintech and network technologies
-- 🤔 I’m looking for help with production perspectives on Golang back-ends
+- 🤔 I’m looking for help with production perspectives and insights on Golang back-ends
 - 💬 Ask me about the latest and the greatest in Java, Spring and cloud landscape (pun intended)
 - 📫 How to reach me:
                      [LinkedIn](https://in.linkedin.com/in/devansh-saxena-b5655329)
