@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on modern Java paradigms and primarily Spring ecosystem
 - 🌱 I’m currently learning Helidon
 - 👯 I’m looking to collaborate on technical project development ideas in fintech
-- 🤔 I’m looking for help with production grade perspectives on Golang back-ends
+- 🤔 I’m looking for help with production perspectives on Golang back-ends
 - 💬 Ask me about the latest and the greatest in Java Spring ecosystem
 - 📫 How to reach me:
                      [LinkedIn](https://in.linkedin.com/in/devansh-saxena-b5655329)
